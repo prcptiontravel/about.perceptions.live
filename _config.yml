@@ -1,24 +1,27 @@
 # ----
 # Site
 
-title: Hydra Template
-url: "https://proud-alligator.cloudvent.net"
-baseurl:
+title: Perceptions.Live
+url: "https://about.perceptions.live"
+baseurl: /
 google_analytics_key:
 google_maps_javascript_api_key:
 disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Product marketing template for Jekyll.
+description: Easy content visualizing for IRL and online communities.
 author:
   name:
   email:
-  twitter: # twitter username without the @ symbol
+  twitter: prcptiontravel # twitter username without the @ symbol
 social:
-  name: Hydra Template
+  name: PRCPTION Travel
   links:
-    - https://github.com/CloudCannon/hydra-jekyll-template
+    - https://github.com/prcptiontravel
+    - https://facebook.com/perceptiontraveltv
+    - https://twitter.com/prcptiontravel
+    - https://youtube.com/prcptiontravel
 
 # -----
 # Build
@@ -91,7 +94,6 @@ exclude:
 
 social_icons:
   - Facebook
-  - Google Plus
   - Instagram
   - LinkedIn
   - Pinterest
