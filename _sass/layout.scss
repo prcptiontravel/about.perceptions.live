@@ -21,7 +21,7 @@ header {
 	color: #fff;
 	padding: 20px 0;
 	background: $brand-color; /* Old browsers */
-	background: linear-gradient(to bottom, $brand-color 0%, #ffffff 100%) no-repeat #ffffff;
+	background: linear-gradient(to bottom, #ffffff 0%, $brand-color 70%) no-repeat #ffffff;
 
 	a {
 		color: #fff;
