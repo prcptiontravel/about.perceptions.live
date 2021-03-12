@@ -32,13 +32,13 @@
 }
 
 .hero {
-	color: #ffffff;
+	color: $brand-color;
 	text-align: center;
-	background: $brand-color;
+	background: rgb(187, 173, 247);
 	padding-top: 50px;
 
 	p {
-		color: #fff;
+		color: #$brand-color;
 	}
 }
 
