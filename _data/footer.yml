@@ -21,19 +21,23 @@
     link: /
     new_window: true
 - links:
+  - name: Perception Travel TV
+    link: https://perceptiontravel.tv
+    social_icon: YouTube
+    new_window: true
+  - name: PRCPTION Travel, Inc.
+    link: https://prcptiontravel.com
+    social_icon: YouTube
+    new_window: true
   - name: Facebook
-    link: https://facebook.com/cloudcannon/
+    link: https://facebook.com/perceptiontraveltv
     new_window: true
     social_icon: Facebook
   - name: Twitter
-    link: https://twitter.com/cloudcannon/
+    link: https://twitter.com/prcptiontravel
     social_icon: Twitter
     new_window: true
   - name: YouTube
-    link: https://youtube.com/cloudcannon/
+    link: https://youtube.com/prcptiontravel
     social_icon: YouTube
     new_window: true
-  - name: RSS
-    link: /feed.xml
-    social_icon: RSS
-    new_window: false
